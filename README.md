@@ -1,6 +1,7 @@
 # azapp
 
-A new Flutter project.
+Your AI companion with you all the times !!  
+Azaap aims to deliver a virtual friend to you so that you may never feel lonely ;)
 
 ## Getting Started
 
